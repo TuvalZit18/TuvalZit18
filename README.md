@@ -52,8 +52,8 @@ All coding projects are built from scratch, trying to show my skills I've develo
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
   </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TuvalZit18&show_icons=true&locale=en&layout=compact&theme=radical&langs_count=10" alt="tuvalzit18" /><br/><br/><br/><br/><br/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TuvalZit18&show_icons=true&locale=en&layout=normal&theme=radical" alt="tuvalzit18" /></p>
 <h2 align="left">GitHub Stats</h2>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=TuvalZit18&show_icons=true&locale=en&theme=radical" alt="tuvalzit18" /><br/><br/><br/><br/><br/><br/><br/><br/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TuvalZit18&show_icons=true&locale=en&theme=radical" alt="tuvalzit18" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=TuvalZit18&theme=radical" alt="tuvalzit18" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TuvalZit18&theme=radical" alt="tuvalzit18" /></p>
